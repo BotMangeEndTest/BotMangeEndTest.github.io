@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbot_market_web=self.webpackChunkbot_market_web||[]).push([[246],{43246:function(s,n,t){t.r(n),t.d(n,{default:function(){return E}});var O=t(94943),u=t(74813),e=t(67238);function E(){var o=(0,u.useOutletContext)();return(0,e.jsx)(u.Outlet,{context:o})}}}]);
